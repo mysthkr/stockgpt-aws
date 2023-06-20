@@ -1,0 +1,423 @@
+# この viminfo ファイルは Vim 9.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 最後の 検索パターン:
+~MSle0~/172
+
+# 最後に置換された文字列:
+$
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1687185555,,"wq"
+:q!
+|2,0,1687183794,,"q!"
+:q
+|2,0,1687159474,,"q"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/172
+|2,1,1687163937,47,"172"
+?/app
+|2,1,1687159426,47,"app"
+?/localho
+|2,1,1687158246,47,"localho"
+?/localhost
+|2,1,1687158226,47,"localhost"
+?/ec2-user-api-1
+|2,1,1687158130,47,"ec2-user-api-1"
+?/localh
+|2,1,1687157988,47,"localh"
+?/local
+|2,1,1687157966,47,"local"
+?/q
+|2,1,1687157798,47,"q"
+?/loca
+|2,1,1687157748,47,"loca"
+?/localhos
+|2,1,1687155833,47,"localhos"
+? @$
+|2,1,1687150525,,"@$"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	CHAR	0
+	.
+|3,0,0,0,1,0,1687150525,"."
+""-	CHAR	0
+	t
+|3,1,36,0,1,0,1687158230,"t"
+
+# ファイルマーク:
+'0  126  20  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,48,126,20,1687185555,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+'1  99  57  ~/front/src/pages/signup.tsx
+|4,49,99,57,1687183928,"~/front/src/pages/signup.tsx"
+'2  32  1  ~/front/src/pages/signup.tsx
+|4,50,32,1,1687183794,"~/front/src/pages/signup.tsx"
+'3  22  1  ~/front/src/pages/signup.tsx
+|4,51,22,1,1687183794,"~/front/src/pages/signup.tsx"
+'4  126  21  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,52,126,21,1687183668,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+'5  4  46  ~/front/src/lib/auth.tsx
+|4,53,4,46,1687163961,"~/front/src/lib/auth.tsx"
+'6  10  208  ~/back/config/initializers/cors.rb
+|4,54,10,208,1687163363,"~/back/config/initializers/cors.rb"
+'7  67  33  ~/back/config/environments/development.rb
+|4,55,67,33,1687159558,"~/back/config/environments/development.rb"
+'8  67  21  ~/back/config/environments/development.rb
+|4,56,67,21,1687159474,"~/back/config/environments/development.rb"
+'9  38  37  ~/front/src/pages/profile/[id]/edit.tsx
+|4,57,38,37,1687158249,"~/front/src/pages/profile/[id]/edit.tsx"
+
+# ジャンプリスト (新しいものが先):
+-'  126  20  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,126,20,1687185555,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  99  57  ~/front/src/pages/signup.tsx
+|4,39,99,57,1687183928,"~/front/src/pages/signup.tsx"
+-'  99  57  ~/front/src/pages/signup.tsx
+|4,39,99,57,1687183928,"~/front/src/pages/signup.tsx"
+-'  32  1  ~/front/src/pages/signup.tsx
+|4,39,32,1,1687183796,"~/front/src/pages/signup.tsx"
+-'  32  1  ~/front/src/pages/signup.tsx
+|4,39,32,1,1687183796,"~/front/src/pages/signup.tsx"
+-'  22  1  ~/front/src/pages/signup.tsx
+|4,39,22,1,1687183794,"~/front/src/pages/signup.tsx"
+-'  22  1  ~/front/src/pages/signup.tsx
+|4,39,22,1,1687183794,"~/front/src/pages/signup.tsx"
+-'  1  0  ~/front/src/pages/signup.tsx
+|4,39,1,0,1687183737,"~/front/src/pages/signup.tsx"
+-'  1  0  ~/front/src/pages/signup.tsx
+|4,39,1,0,1687183737,"~/front/src/pages/signup.tsx"
+-'  1  0  ~/front/src/pages/signup.tsx
+|4,39,1,0,1687183737,"~/front/src/pages/signup.tsx"
+-'  1  0  ~/front/src/pages/signup.tsx
+|4,39,1,0,1687183737,"~/front/src/pages/signup.tsx"
+-'  126  21  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,126,21,1687183668,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  126  21  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,126,21,1687183668,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  126  21  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,126,21,1687183668,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  126  21  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,126,21,1687183668,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  1  0  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,1,0,1687183605,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  1  0  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,1,0,1687183605,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  1  0  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,1,0,1687183605,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  1  0  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,1,0,1687183605,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  1  0  ~/back/app/controllers/api/v1/stock_items_controller.rb
+|4,39,1,0,1687183605,"~/back/app/controllers/api/v1/stock_items_controller.rb"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  4  46  ~/front/src/lib/auth.tsx
+|4,39,4,46,1687163961,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  1  0  ~/front/src/lib/auth.tsx
+|4,39,1,0,1687163937,"~/front/src/lib/auth.tsx"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  10  208  ~/back/config/initializers/cors.rb
+|4,39,10,208,1687163363,"~/back/config/initializers/cors.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+-'  67  33  ~/back/config/environments/development.rb
+|4,39,67,33,1687159558,"~/back/config/environments/development.rb"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/back/app/controllers/api/v1/stock_items_controller.rb
+	*	1687185554	0
+	"	126	20
+	^	126	21
+	.	126	20
+	+	125	41
+	+	126	20
+
+> ~/front/src/pages/signup.tsx
+	*	1687183924	0
+	"	99	57
+	^	99	58
+	.	99	57
+	+	19	34
+	+	36	4
+	+	20	2
+	+	22	0
+	+	30	4
+	+	24	2
+	+	23	3
+	+	24	3
+	+	55	28
+	+	56	34
+	+	87	69
+	+	93	63
+	+	99	57
+
+> ~/front/src/lib/auth.tsx
+	*	1687163957	0
+	"	4	46
+	^	4	47
+	.	4	46
+	+	4	46
+
+> ~/back/config/initializers/cors.rb
+	*	1687163355	0
+	"	10	208
+	^	10	209
+	.	10	208
+	+	10	208
+
+> ~/back/config/environments/development.rb
+	*	1687159557	0
+	"	67	33
+	^	67	34
+	.	67	32
+	+	67	32
+
+> ~/front/src/pages/profile/[id]/edit.tsx
+	*	1687158247	0
+	"	38	37
+	^	38	38
+	.	38	38
+	+	38	38
+
+> ~/front/src/pages/profile/[id].tsx
+	*	1687158207	0
+	"	158	32
+	^	110	38
+	.	110	37
+	+	110	37
+
+> ~/front/src/pages/group/[id].tsx
+	*	1687158160	0
+	"	239	4
+	^	251	30
+	.	250	32
+	+	68	12
+	+	106	43
+	+	148	56
+	+	181	57
+	+	182	0
+	+	201	34
+	+	250	24
+	+	251	0
+	+	252	0
+	+	250	32
+
+> ~/front/src/lib/withAuthFetch.tsx
+	*	1687157869	0
+	"	2	28
+	^	2	29
+	.	2	29
+	+	2	29
+
+> ~/front/src/components/organisms/Header/index.tsx
+	*	1687157802	0
+	"	118	11
+	^	118	12
+	.	118	12
+	+	118	12
+
+> ~/front/src/components/organisms/GlobalNav/index.tsx
+	*	1687157716	0
+	"	82	36
+	^	82	37
+	.	82	37
+	+	82	37
+
+> ~/front/src/pages/grocery.tsx
+	*	1687155835	0
+	"	63	25
+	^	63	26
+	.	63	26
+	+	85	54
+	+	100	53
+	+	156	16
+	+	197	45
+	+	312	45
+	+	379	23
+	+	428	59
+	+	465	58
+	+	63	26
+
+> ~/front/Dockerfile
+	*	1687153413	0
+	"	17	16
+	^	17	17
+	.	17	16
+	+	18	5
+	+	16	11
+	+	17	16
+
+> ~/back/Dockerfile
+	*	1687150721	0
+	"	52	0
+
+> ~/docker-compose.yml
+	*	1687150262	0
+	"	19	8
+	^	19	18
+	.	19	8
+	+	19	8
